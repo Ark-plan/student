@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 public class SignIn {
 	private int id;
 	private String name;
+=======
+public calss SignIn {
+	private int id;
+	private String name;
+	public void sign(){
+		System.out.println(name);
+	}
+>>>>>>> dadc8035de388e768b9fa923ed279de605321084
 }
